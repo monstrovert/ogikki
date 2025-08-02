@@ -1,4 +1,4 @@
-![logo](https://github.com/ogikki/ogikki/blob/main/IMG_20221227_225943-01.jpeg)
+
 <h1 align="center">Hi , I'm Yash AKA Dex </h1>
 <h3 align="center">ghostwriter & coder/designer currently persuing bachelor's at IIT PATNA </h3>
 
