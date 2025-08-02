@@ -20,3 +20,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="40"/>
